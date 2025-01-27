@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.is-invalid {
+  border: 2px solid red;
+  background-color: #f8d7da;
+}
